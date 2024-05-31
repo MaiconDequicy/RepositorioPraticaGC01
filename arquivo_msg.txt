@@ -1,3 +1,7 @@
 Oi, tudo bom?
 
+<<<<<<< HEAD
 Qual o seu curso?
+=======
+Modificando esse arquivo...
+>>>>>>> master
